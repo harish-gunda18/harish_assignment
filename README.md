@@ -1,6 +1,4 @@
-Niki.ai assignment
-
-This is an IPython Notebook for the assignment, Sentiment Analysis on app reviews. The goal of this repository is to perform eda on the dataset and predict the "Star Ratings" given the features.
+This is an IPython Notebook for the Sentiment Analysis on app reviews. The goal of this repository is to perform eda on the dataset and predict the "Star Ratings" given the features.
 
 
 Dependencies:
